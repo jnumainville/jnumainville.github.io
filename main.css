@@ -1,0 +1,37 @@
+body {
+  background-color: #EEF0F2;
+  color: #16191E;
+}
+
+#social {
+  background-color: #9E1C29;
+  border-radius: 7px;
+  padding: 10px;
+}
+
+a {
+  color: #16191E;
+  background-color: #EEF0F2;
+  border-radius: 3px;
+  padding: 5px;
+  text-decoration: none;
+  margin: 3px;
+}
+
+#navBar {
+  background-color: #9E1C29;
+  padding: 5px;
+  width: 100%;
+}
+
+.navEl {
+  background-color: #EEF0F2;
+  padding: 5px;
+  width: 30%;
+  display: inline-block;
+  text-align: center;
+}
+
+.navEl:hover {
+  background-color: #AFC4D8;
+}
