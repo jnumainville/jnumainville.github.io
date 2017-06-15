@@ -1,12 +1,14 @@
 body {
   background-color: #EEF0F2;
   color: #16191E;
+  margin: 0px;
+  body: 0px;
 }
 
 #social {
   background-color: #9E1C29;
-  border-radius: 7px;
   padding: 10px;
+  width: 100%;
 }
 
 a {
@@ -20,16 +22,17 @@ a {
 
 #navBar {
   background-color: #9E1C29;
-  padding: 5px;
   width: 100%;
 }
 
 .navEl {
-  background-color: #EEF0F2;
-  padding: 5px;
-  width: 30%;
+  background-color: #991B28;
+  width: 20%;
   display: inline-block;
   text-align: center;
+  padding: 5px;
+  height: 100%;
+  margin: 0px;
 }
 
 .navEl:hover {
