@@ -6,27 +6,34 @@ body {
 }
 
 #social {
-  background-color: #9E1C29;
-  padding: 10px;
+  background-color: #16191E;
   width: 100%;
+  color: #EEF0F2;
 }
 
 a {
-  color: #16191E;
-  background-color: #EEF0F2;
-  border-radius: 3px;
+  width: 20%;
+  display: inline-block;
+  text-align: center;
   padding: 5px;
+  height: 100%;
+  margin: 0px;
   text-decoration: none;
-  margin: 3px;
+  color: #EEF0F2;
+}
+
+a:hover {
+  background-color: #EEF0F2;
+  color: #16191E;
 }
 
 #navBar {
-  background-color: #9E1C29;
+  background-color: #16191E;
   width: 100%;
+  color: #EEF0F2;
 }
 
 .navEl {
-  background-color: #991B28;
   width: 20%;
   display: inline-block;
   text-align: center;
@@ -36,5 +43,7 @@ a {
 }
 
 .navEl:hover {
-  background-color: #AFC4D8;
+  background-color: #EEF0F2;
+  color: #16191E;
+
 }
