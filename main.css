@@ -31,6 +31,9 @@ a:hover {
   background-color: #16191E;
   width: 100%;
   color: #EEF0F2;
+  position: fixed;
+  top: 0;
+  left: 0;
 }
 
 .navEl {
