@@ -2,7 +2,7 @@ body {
   background-color: #EEF0F2;
   color: #16191E;
   margin: 0px;
-  body: 0px;
+  font-family: "Arial", sans-serif;
 }
 
 #social {
@@ -31,6 +31,9 @@ a:hover {
   background-color: #16191E;
   width: 100%;
   color: #EEF0F2;
+  position: fixed;
+  top: 0;
+  left: 0;
 }
 
 .navEl {
