@@ -20,6 +20,7 @@ a {
   margin: 0px;
   text-decoration: none;
   color: #EEF0F2;
+  background-color: #16191E;
 }
 
 a:hover {
@@ -49,4 +50,8 @@ a:hover {
   background-color: #EEF0F2;
   color: #16191E;
 
+}
+
+.space {
+  color: #EEF0F2;
 }
