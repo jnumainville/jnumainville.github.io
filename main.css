@@ -5,23 +5,6 @@ body {
   font-family: "Arial", sans-serif;
 }
 
-a {
-  width: 20%;
-  display: inline-block;
-  text-align: center;
-  padding: 5px;
-  height: 100%;
-  margin: 0px;
-  text-decoration: none;
-  color: #EEF0F2;
-  background-color: #16191E;
-}
-
-a:hover {
-  color: #16191E;
-  background-color: #EEF0F2;
-}
-
 #navBar {
   background-color: #16191E;
   width: 100%;
@@ -38,6 +21,9 @@ a:hover {
   padding: 5px;
   height: 100%;
   margin: 0px;
+  font-size: 20px;
+  color: #EEF0F2;
+  text-decoration: none;
 }
 
 .navEl:hover {
@@ -46,11 +32,40 @@ a:hover {
 
 }
 
-.space {
+.jump {
   color: #EEF0F2;
 }
 
-.about {
+#jump1 {
+}
+
+#jump2 {
+  height: 18px;
+}
+
+#id {
+  max-width: 60%;
+  margin-left: 10%;
+}
+
+.social {
+  width: 20%;
+  display: inline-block;
+  text-align: center;
+  padding: 5px;
+  height: 100%;
+  margin: 0px;
+  text-decoration: none;
+  color: #EEF0F2;
+  background-color: #16191E;
+  font-size: 18px;
+}
+
+.proj {
+  color: #16191E;
+}
+
+.block {
   max-width: 60%;
   margin-left: 10%;
 }
