@@ -21,7 +21,7 @@ body {
   padding: 5px;
   height: 100%;
   margin: 0px;
-  font-size: 26px;
+  font-size: 1.5em;
   color: #EEF0F2;
   text-decoration: none;
 }
@@ -37,7 +37,7 @@ body {
 }
 
 #jump1 {
-  height: 26px;
+  height: 24px;
 }
 
 #jump2 {
@@ -58,7 +58,7 @@ body {
   text-decoration: none;
   color: #EEF0F2;
   background-color: #16191E;
-  font-size: 24px;
+  font-size: 1.5em;
 }
 
 .proj {
