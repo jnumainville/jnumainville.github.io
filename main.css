@@ -21,7 +21,7 @@ body {
   padding: 5px;
   height: 100%;
   margin: 0px;
-  font-size: 20px;
+  font-size: 26px;
   color: #EEF0F2;
   text-decoration: none;
 }
@@ -37,15 +37,15 @@ body {
 }
 
 #jump1 {
+  height: 26px;
 }
 
 #jump2 {
-  height: 18px;
+  height: 24px;
 }
 
-#id {
-  max-width: 60%;
-  margin-left: 10%;
+.test {
+  height: 1000px;
 }
 
 .social {
@@ -58,7 +58,7 @@ body {
   text-decoration: none;
   color: #EEF0F2;
   background-color: #16191E;
-  font-size: 18px;
+  font-size: 24px;
 }
 
 .proj {
